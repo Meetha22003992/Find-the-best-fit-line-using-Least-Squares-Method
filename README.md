@@ -65,7 +65,8 @@ print(xy)
 
 ```
 ## Output:
-![Ex ss]("C:\Users\SEC\Desktop\Introduction to machine learning\Ex ss.png".png)
+![Experiment screen shot](https://user-images.githubusercontent.com/119401038/225858889-789a0c9c-aa4e-4b28-afa7-b1f026d34111.png)
+
 
 
 ## Result:
