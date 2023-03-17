@@ -64,7 +64,8 @@ xy=m*3+b
 print(xy)
 
 ## Output:
-![Experiment screen shot](https://user-images.githubusercontent.com/119401038/225858889-789a0c9c-aa4e-4b28-afa7-b1f026d34111.png)
+![Experiment screen shot](https://user-images.githubusercontent.com/119401038/225860859-a202ca3b-a304-4e4b-8184-04de7d80cf60.png)
+
 
 
 
