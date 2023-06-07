@@ -64,10 +64,8 @@ xy=m*3+b
 print(xy)
 
 ## Output:
+
 ![Experiment screen shot](https://user-images.githubusercontent.com/119401038/225860859-a202ca3b-a304-4e4b-8184-04de7d80cf60.png)
-
-
-
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
